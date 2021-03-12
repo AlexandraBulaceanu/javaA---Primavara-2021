@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Pisica
+comment1.params=nume\ varsta\ culoare
+comment1.target=Pisica(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ \ \ \ Pisica()\ {\r\n\ \ \ \ \ \ System.out.println("Sunt\ un\ constructor\ fara\ parametrii.\ Constructorul\ implicit\ nu\ mai\ exista");\ \ \r\n}
+numComments=2
