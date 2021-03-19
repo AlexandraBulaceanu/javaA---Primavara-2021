@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Transfer
+comment1.params=x
+comment1.target=void\ modificaValoare(int)
+comment2.params=p
+comment2.target=void\ modificaReferinta(Pisica)
+comment3.params=
+comment3.target=int\ m()
+numComments=4
