@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Produs
+comment0.text=\r\n\ Un\ magazin\ contine\ mai\ multe\ produse.\ Maximul\ de\ produse\ pe\ care\ le\ poate\ avea\ magazinul\ este\r\n\ de\ 20.\ Se\ va\ face\ o\ exceptie\ PreaMulteProduseException\ daca\ se\ depaseste\ aceasta\ limita.\ Produsele\r\n\ pot\ sa\ fie\ ciocolata\ sau\ bere.\ Un\ produs\ are\ un\ nume\ si\ un\ pret.\ O\ ciocolata\ este\ un\ produs\ cu\ un\ numar\r\n\ de\ kcal,\ iar\ berea\ este\ un\ produs\ cu\ procent\ de\ alcool.\r\n\ Utilizatorul\ poate\ sa\ dea\ urmatoarele\ comenzi\ de\ la\ tastatura\:\r\n\ adaugaCioco\ nume\ pret\ kcal\r\n\ adaugaBere\ nume\ pret\ pa\r\n\ afisare\r\n\ afisareCioco\r\n\ sterge\ nume\r\n\ exit\r\n
+comment1.params=o
+comment1.target=boolean\ equals(java.lang.Object)
+numComments=2

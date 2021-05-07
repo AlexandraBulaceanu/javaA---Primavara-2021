@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ExJoin
+comment0.text=\r\n\ DB1\ -\ MIN\ 2\ SEC\r\n\ DB2\ -\ MIN\ 3\ SEC\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ collectDataFromDB1()
+comment3.params=
+comment3.target=void\ collectDataFromDB2()
+numComments=4
